@@ -1,0 +1,4 @@
+numpy==<version_number>
+pandas==<version_number>
+seaborn==<version_number>
+scikit-learn==<version_number>
